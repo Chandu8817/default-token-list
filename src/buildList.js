@@ -6,6 +6,7 @@ const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
+const amoy = require("./tokens/amoy.json");
 const optimism = require("./tokens/optimism.json");
 const celo = require("./tokens/celo.json");
 const arbitrum = require("./tokens/arbitrum.json");
@@ -40,6 +41,7 @@ module.exports = function buildList() {
       ...rinkeby,
       ...polygon,
       ...mumbai,
+      ...amoy,
       ...optimism,
       ...celo,
       ...arbitrum,

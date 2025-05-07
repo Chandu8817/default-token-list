@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wrapped POL",
+    "address": "0x1810bC0e664ba7ea42F1B6F34Da0A434d7308F81",
+    "symbol": "WPOL",
+    "decimals": 18,
+    "chainId": 80002,
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  }
+  ,
+  {
+    "name": "USDC",
+    "address": "0x3286a3AAE98bd3886999B92223413C4bb935cbc7",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 80002,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  }
+]
